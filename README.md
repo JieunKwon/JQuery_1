@@ -19,7 +19,5 @@ JQuery practice
         Access to the browser gives you access to events such as mouse movements and clicks. 
 
         - jQuery is a library that is built on JavaScript. 
-        The underlying code is JavaScript; however, jQuery simplifies a lot of the JavaScript code into simple-to-use functionality. 
+        jQuery simplifies a lot of the JavaScript code into simple-to-use functionality. 
         jQuery provides a rich set of built in functionality that makes it easy to do a lot more with a lot less code. 
-        For example, tasks such as hiding an element on the screen or animating the resize of an element take just one line of code.
-
